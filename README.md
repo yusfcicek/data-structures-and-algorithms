@@ -1,3 +1,3 @@
 # data-structures-and-algorithms
- University Midterm Exam Project
- Text editor with LinkedList project
+### University Midterm Exam Project
+Text editor with LinkedList project
